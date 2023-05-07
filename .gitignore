@@ -1,0 +1,17 @@
+tmp/
+.idea/
+.env
+
+#pycache
+*__pycache__/
+.ipynb_checkpoints/
+
+# downloadable files
+runs/
+coco/
+yolov7/
+data/
+
+# Build
+*.egg-info
+build/
